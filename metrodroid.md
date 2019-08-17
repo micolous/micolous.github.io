@@ -1,5 +1,5 @@
 ---
 title: Metrodroid
-permalink: /metrodroid/
-redirect_to: https://metrodroid.github.io/metrodroid/
+permalink: /metrodroid
+redirect_to: https://metrodroid.github.io/metrodroid
 ---
